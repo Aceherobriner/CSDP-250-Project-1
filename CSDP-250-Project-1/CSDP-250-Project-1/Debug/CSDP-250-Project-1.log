@@ -1,0 +1,5 @@
+﻿  CSDP-250-Project-1.cpp
+  NumberList.cpp
+C:\Users\Israel Showell\source\repos\CSDP-250-Project-1\CSDP-250-Project-1\NumberList.cpp(86,23): warning C4101: 'nodePtr': unreferenced local variable
+  Generating Code...
+  CSDP-250-Project-1.vcxproj -> C:\Users\Israel Showell\source\repos\CSDP-250-Project-1\Debug\CSDP-250-Project-1.exe
